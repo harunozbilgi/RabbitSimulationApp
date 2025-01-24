@@ -36,7 +36,7 @@ The simulation's parameters are managed through the `appsettings.json` file, loc
 ## How to Run
 1. Clone the repository to your local machine.
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/harunozbilgi/RabbitSimulationApp.git
    ```
 
 2. Navigate to the project directory.
