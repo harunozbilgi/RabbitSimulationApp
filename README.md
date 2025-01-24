@@ -11,7 +11,7 @@ The Rabbit Simulation project is a dynamic application built with .NET Core. It 
 - Easily extendable for additional animal types.
 
 ## Technologies Used
-- .NET Core 6.0 or later
+- .NET Core 9
 - Microsoft.Extensions.Configuration for configuration management
 - Task-based asynchronous programming for multi-threading
 
@@ -85,8 +85,3 @@ To add support for additional animal types:
 2. Adjust the simulation logic in `Simulation.cs` to handle the new animal type.
 3. Update `appsettings.json` to include parameters for the new animal type.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Acknowledgments
-Special thanks to the .NET Core community for their contributions to modern application development frameworks.
